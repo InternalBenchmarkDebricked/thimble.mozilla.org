@@ -2,7 +2,7 @@
   "name": "thimble.mozilla.org",
   "version": "2.0.0",
   "private": true,
-  "description": "Online code editor geared to people teaching and learning HTML, CSS, and JavaScript",
+  "description": "Online codez editor geared to people teaching and learning HTML, CSS, and JavaScript",
   "main": "app.js",
   "repository": {
     "type": "git",
